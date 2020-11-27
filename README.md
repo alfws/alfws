@@ -1,4 +1,9 @@
-### Hi there 👋
+### Alfredo 👋
+
+Working as full stack developer.
+Learning AWS and Docker.
+
+Let's connect on [Linkedin](https://www.linkedin.com/in/alfredolanzetta/). 
 
 <!--
 **alfws/alfws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
