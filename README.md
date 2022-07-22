@@ -1,7 +1,6 @@
 ### Alfredo 👋
 
-Working as full stack developer.
-Learning AWS and Docker.
+Working as CTO.
 
 Let's connect on [Linkedin](https://www.linkedin.com/in/alfredolanzetta/). 
 
